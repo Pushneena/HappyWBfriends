@@ -7,4 +7,5 @@ const (
 	metricsLabelStatusCode    = "status"
 	metricsLabelDatabase      = "dbname"
 	metricsLabelDatabaseQuery = "query"
+	metricsLabelSupplierOldId = "SupplierOldId"
 )
